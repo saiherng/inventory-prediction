@@ -5,6 +5,12 @@ The project also uses traditional regression models such as Linear, SVR, KNN and
 
 ![](https://github.com/saiherng/inventory-prediction/blob/main/montly%20sales%20by%20category.png)
 
+![](https://github.com/saiherng/inventory-prediction/blob/main/Screenshot%202025-05-23%20090755.png)
+
+![](https://github.com/saiherng/inventory-prediction/blob/main/knn.png)
+![](https://github.com/saiherng/inventory-prediction/blob/main/Linear.png)
+![](https://github.com/saiherng/inventory-prediction/blob/main/rt.png)
+
 
 
 

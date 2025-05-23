@@ -2,3 +2,5 @@
 
 Trained a machine learning model to predict inventory stock levels using forecasting models such as ARIMA. "An ARIMA model is a statistical analysis model that leverages time series data to forecast future trends". 
 The project also uses traditional regression models such as Linear, SVR, KNN and Decision Trees for metrics comparison. 
+
+![]([https://github.com/saiherng/ecommerce/blob/d60efda5009fad8864d97828e94738ac6b71f664/screenshots/1.%20Home%20Page.jpg](https://github.com/saiherng/inventory-prediction/blob/main/montly%20sales%20by%20category.png))
